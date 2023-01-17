@@ -1,0 +1,13 @@
+.box {
+    border: 2px solid;
+    background-color: white;
+}
+#classes {
+    color: brown;
+}
+#ids {
+    color: blueviolet;
+}
+#classes > P > b , #ids > li > b {
+    color: chocolate;
+}

@@ -1,0 +1,14 @@
+
+ul li a::before{
+    content: "=> ";
+    color: red;
+    margin-right: 20px;
+}
+
+/* 
+    Pseudo Elements
+    https://www.w3schools.com/css/css_pseudo_elements.asp
+    
+    Psudo Classes
+    https://www.w3schools.com/css/css_pseudo_classes.asp
+ */

@@ -1,0 +1,17 @@
+#id {
+    background-color: blueviolet;
+}
+html .class {
+    background-color: tomato;
+}
+html body {
+    background-color: aqua;
+}
+body {
+    background-color: rgb(165, 210, 0);
+}
+
+/* More Info about specificity */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity */
+/* Specificity calculator */
+/* http://specificity.keegan.st/ */
